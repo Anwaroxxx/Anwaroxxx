@@ -34,7 +34,13 @@ I enjoy building projects, solving problems, and learning how systems work behin
   <img src="https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=github_dark&hide_border=true" alt="Anwar's GitHub Stats"/>
 </p>
 
-![Wakatime stats](https://wakatime.com/share/@Pointer001/project.svg)
+
+
+### 📈 Coding Activity
+<p align="center">
+  <img src="https://wakatime.com/share/@Pointer001.svg" alt="WakaTime Stats"/>
+</p>
+
 
 
 ### 🏆 Top Languages
