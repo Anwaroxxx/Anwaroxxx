@@ -4,7 +4,6 @@
 
 ---
 
-<!-- ================== ABOUT ================== -->
 <p align="center">
 I'm a passionate developer from <strong>Morocco</strong>, exploring <strong>software engineering</strong> and <strong>web development</strong>. 
 I enjoy building projects, solving problems, and learning how systems work behind the scenes.
@@ -12,49 +11,25 @@ I enjoy building projects, solving problems, and learning how systems work behin
 
 ---
 
-<!-- ================== TECH STACK ================== -->
-### 🧰 Tech Stack
-<p>
-  <img alt="C" src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img alt="Makefile" src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
-<!-- ================== GITHUB STATS ================== -->
-### 📊 GitHub Stats
+<!-- ================== STATS & ACTIVITY ================== -->
 <p align="center">
-  <!-- Total Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=github_dark&hide_border=true" alt="Anwar's GitHub Stats"/>
-</p>
-
-
-
-### 📈 Coding Activity
-<p align="center">
-  <img src="https://wakatime.com/share/@Pointer001.svg" alt="WakaTime Stats"/>
-</p>
-
-
-
-### 🏆 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=github_dark&hide_border=true&langs_count=5" alt="Top Languages"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="400"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=github_dark&hide_border=true&langs_count=5" alt="Top Languages" width="400"/>
+  
+  <!-- WakaTime -->
+  <br/>
+  [![wakatime](https://wakatime.com/badge/user/07ed32d1-c086-49a6-8d21-6d424aed70a5.svg)](https://wakatime.com/@Pointer001)
 </p>
 
 ---
 
 <!-- ================== CONTACT ================== -->
-### 🌐 Connect With Me
-<p>
-  <a href="mailto:anwar@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://x.com/AnwarAzarzou"><img alt="Twitter/X" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<p align="center">
+  <a href="mailto:anwar.azarzou.6969@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/AnwarAzarz79214"><img alt="Twitter/X" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
