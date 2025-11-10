@@ -19,10 +19,11 @@ I enjoy building projects, solving problems, and learning how systems work behin
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=github_dark&hide_border=true&langs_count=5" alt="Top Languages" width="400"/>
   
-  <!-- WakaTime -->
-  <br/>
-  [![wakatime](https://wakatime.com/badge/user/07ed32d1-c086-49a6-8d21-6d424aed70a5.svg)](https://wakatime.com/@Pointer001)
+  ### 🕒 Recent Coding Activity
+<p align="center">
+  [![wakatime](https://wakatime.com/badge/user/07ed32d1-c086-49a6-8d21-6d424aed70a5.svg)](https://wakatime.com/@07ed32d1-c086-49a6-8d21-6d424aed70a5)
 </p>
+
 
 ---
 
