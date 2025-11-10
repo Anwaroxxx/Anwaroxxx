@@ -43,7 +43,7 @@ I enjoy building projects, solving problems, and learning how systems work behin
 
 ### 📌 Favorite / Highlighted Repositories
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anwaroxxx&repo=YOUR_REPO_1&theme=github_dark" alt="Repo 1"/>
+  <img src="https://github.com/Anwaroxxx/My_1337_Pool&repo=YOUR_REPO_1&theme=github_dark" alt="Repo 1"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anwaroxxx&repo=YOUR_REPO_2&theme=github_dark" alt="Repo 2"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anwaroxxx&repo=YOUR_REPO_3&theme=github_dark" alt="Repo 3"/>
 </p>
