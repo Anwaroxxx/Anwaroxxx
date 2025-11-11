@@ -21,6 +21,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
   <!-- CSS -->
@@ -31,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <!-- Makefile (no icon, using gear emoji for style) -->
+  <!-- Makefile (no official icon, using gear emoji for style) -->
   <img src="https://img.icons8.com/fluency/48/000000/gear.png" alt="Makefile" width="50" height="50"/>
 </p>
 
@@ -73,5 +75,5 @@
 ---
 
 <blockquote align="center">
-  “Kaizen.”
+  “Keep building, keep learning, keep exploring.”
 </blockquote>
