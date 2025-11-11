@@ -15,6 +15,7 @@ I enjoy building projects, solving problems, and learning how systems work behin
 <p align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="400"/>
+  <a href="https://wakatime.com/@07ed32d1-c086-49a6-8d21-6d424aed70a5"><img src="https://wakatime.com/badge/user/07ed32d1-c086-49a6-8d21-6d424aed70a5.svg" alt="Total time coded since Oct 27 2025" /></a>
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=github_dark&hide_border=true&langs_count=5" alt="Top Languages" width="400"/>
