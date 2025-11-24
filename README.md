@@ -12,7 +12,7 @@
 ---
 
 ### 📘 What I'm Up To  
-- Currently building web apps using JavaScript, Python, and Linux tools  
+- Currently learning web apps & JavaScript, Python, and Linux tools  
 - Working on personal projects and open-source contributions  
 - Learning about system design, architecture, and best engineering practices  
 - Experimenting with new dev tools, workflows, and automation
