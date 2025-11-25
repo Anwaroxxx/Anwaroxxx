@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&lines=Hey+I'm+Anwaroxxx+🔥;Hi!+i'm+Anwar;Blockchain+%26+Automation+Enthusiast+⚡;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&lines=Hey+I'm+Anwaroxxx+🔥;;Blockchain+%26+Automation+Enthusiast+⚡;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 ---
