@@ -30,16 +30,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-delta-eight-28.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=radical&border_radius=12" 
-    width="420" 
-    alt="Anwaroxxx's GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-stats-delta-eight-28.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=radical&border_radius=12" 
-    width="360" 
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=radical&hide_border=false" width="420" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=radical&hide_border=false" width="360" alt="Top Languages" />
 </p>
 
 ---
@@ -47,10 +39,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Anwaroxxx&theme=radical&hide_border=false&border_radius=12" 
-    width="600" 
-  />
+  <img src="https://streak-stats.demolab.com?user=Anwaroxxx&theme=radical&hide_border=false&border_radius=12" width="600" alt="GitHub Streak Stats" />
 </p>
 
 ---
