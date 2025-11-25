@@ -42,22 +42,42 @@
   />
 </p>
 
-
 ---
 
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anwaroxxx&theme=radical&hide_border=false&border_radius=12" width="600" />
+  <img 
+    src="https://streak-stats.demolab.com?user=Anwaroxxx&theme=radical&hide_border=false&border_radius=12" 
+    width="600" 
+  />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anwaroxxx&theme=radical&no-frame=false&no-bg=true&row=1&column=6" />
 </p>
 
 ---
 
 ## ⚙️ Tools I Use
 
-- VS Code / Linux / Terminal / Bash  
-- Git & GitHub for version control  
-- Browser dev tools for testing and debugging  
+### 🎨 Frontend
+- HTML, CSS  
+- TailwindCSS / Sass / Bootstrap  
+- Framer Motion  
+
+### 🤖 Automation & AI
+- Python scripting  
+- Web scraping  
+- Bots & utilities  
+
+### 🛠 Dev Tools
+- VS Code, Linux, Bash  
+- Git & GitHub  
 
 ---
 
