@@ -35,22 +35,16 @@
 
 ---
 
-### 📊 GitHub Stats  
+<img 
+  src="https://github-readme-stats-git-masterorg.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=github_dark"
+  width="420"
+/>
 
-<p align="center">  
-  <!-- Fixed stats: Removed unstable params, using a stable mirror, consistent sizes -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=github_dark&hide_border=false&border_radius=12" 
-    width="420"
-    alt="GitHub Stats"
-  />
+<img 
+  src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=github_dark"
+  width="360"
+/>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=github_dark&border_radius=12" 
-    width="360"
-    alt="Top Languages"
-  />
-</p>
 
 ---
 
