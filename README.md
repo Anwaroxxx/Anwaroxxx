@@ -29,26 +29,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterorgs.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=radical&hide_border=false" width="420" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-masterorgs.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=radical&hide_border=false" width="360" alt="Top Languages" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anwaroxxx&theme=radical&hide_border=false&border_radius=12" width="600" alt="GitHub Streak Stats" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anwaroxxx&theme=radical&no-frame=false&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+![GitHub followers](https://img.shields.io/github/followers/Anwaroxxx?style=for-the-badge)
+![GitHub repos](https://img.shields.io/github/repos/Anwaroxxx?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Anwaroxxx?style=for-the-badge)
 
 ---
 
