@@ -20,7 +20,7 @@
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=html,css,js,python,c,makefile" /><br/>
   <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=bootstrap,sass" /><br/>
+  <img src="https://skillicons.dev/icons?i=bootstrap,sass,tailwind" /><br/>
   <!-- Dev Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" /><br/>
 </p>
@@ -30,8 +30,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=radical&hide_border=false" width="420" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=radical&hide_border=false" width="360" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterorgs.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=radical&hide_border=false" width="420" />
+  <img src="https://github-readme-stats-git-masterorgs.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=radical&hide_border=false" width="360" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anwaroxxx&theme=radical&hide_border=false&border_radius=12" width="600" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Anwaroxxx&theme=radical&hide_border=false&border_radius=12" width="600" />
 </p>
 
 ---
@@ -74,6 +74,8 @@
 
 <p align="center">
   <a href="mailto:anwar.azarzou.6969@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Anwaroxxx"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/anwaroxxx/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
