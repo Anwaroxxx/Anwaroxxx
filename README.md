@@ -30,9 +30,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=radical&border_radius=12" width="420" />
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=radical&border_radius=12" width="360" />
+  <img 
+    src="https://github-readme-stats-delta-eight-28.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=radical&border_radius=12" 
+    width="420" 
+    alt="Anwaroxxx's GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats-delta-eight-28.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=radical&border_radius=12" 
+    width="360" 
+    alt="Top Languages"
+  />
 </p>
+
 
 ---
 
