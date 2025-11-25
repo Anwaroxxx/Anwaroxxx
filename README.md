@@ -1,109 +1,97 @@
-<!-- ================== HEADER ================== -->  
-<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Anwar</span></h1>    
-<h3 align="center">💻 Exploring Software Engineering & Web Development | 🦁 LionsGeek</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&lines=Hey+I'm+Anwaroxxx+🔥;Full-Stack+Developer+🧠;Blockchain+%26+Automation+Enthusiast+⚡;Welcome+to+my+GitHub+Profile!" />
+</p>
 
 ---
+
+## 🚀 About Me
+
+- 💻 Full-stack & automation enthusiast in the building
+- 🧪 Loves building AI tools, bots, and backend systems  
+- ⚡ Always experimenting with new technologies  
+- 🎯 Goal: Build impactful open-source projects  
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  I'm a passionate developer from <strong>Morocco</strong> 🇲🇦, diving deep into <strong>Software Engineering</strong> and <strong>Web Development</strong>.<br>
-  I love building things from scratch, tackling complex problems, and understanding how systems work under the hood.
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,makefile,C,nodejs,bootstrap,html,css,sass" /><br/>
+  <!-- DevOps -->
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash" /><br/>
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql" /><br/>
 </p>
 
 ---
 
-### 📘 What I'm Up To  
-- Learning advanced JavaScript, Python, and Linux tools  
-- Working on personal & open-source projects  
-- Diving into system design, architecture, and engineering principles  
-- Experimenting with workflows, automation, and new development tools  
-
----
-
-### 🧠 Tech Stack & Favorite Tools  
-
-<p align="center">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>  
-</p>
-
----
-
-<img 
-  src="https://github-readme-stats-git-masterorg.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=github_dark"
-  width="420"
-/>
-
-<img 
-  src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=github_dark"
-  width="360"
-/>
-
-
----
-
-### 🕒 GitHub Streak Stats (New!)  
+## 📊 GitHub Stats
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Anwaroxxx&theme=github-dark-blue&hide_border=false&date_format=j%20M%5B%20Y%5D&border_radius=12"
-    width="500"
-    alt="GitHub Streak"
+    src="https://github-readme-stats-delta-eight-28.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=radical&border_radius=12"
+    width="420"
+  />
+  <img 
+    src="https://github-readme-stats-delta-eight-28.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=radical&border_radius=12"
+    width="360"
   />
 </p>
 
 ---
 
-### ⌨️ WakaTime Coding Activity  
-<div align="center" style="margin-top:20px;">  
-  <a href="https://wakatime.com/@07ed32d1-c086-49a6-8d21-6d424aed70a5" target="_blank">  
-    <img  
-      src="https://wakatime.com/badge/user/07ed32d1-c086-49a6-8d21-6d424aed70a5.svg"  
-      alt="WakaTime Badge"  
-      style="width: 220px; margin-top: 15px;"  
-    />  
-  </a>  
-  <br/>  
-  <sub>⌨️ Tracking my coding journey with <strong>WakaTime</strong></sub>  
-</div>
+## 🔥 Streak Stats
 
----
-
-### 🌱 Currently Learning  
-- System design & backend architecture  
-- Modern web development  
-- JavaScript & C design patterns  
-- Frontend frameworks (Bootstrap, SASS, Tailwind)  
-- DevOps basics (CI/CD, automation, Docker, containers)  
-
----
-
-### 👯 I’m Open To  
-- Contributing to open-source  
-- Collaboration on web/dev projects  
-- Pair-programming & learning together  
-- Mentorship (giving & receiving)  
-
----
-
-### 📫 Contact Me  
-<p align="center" style="margin-top: 20px;">  
-  <a href="mailto:anwar.azarzou.6969@gmail.com">  
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  
-  </a>  
-  <a href="https://x.com/AnwarAzarz79214">  
-    <img alt="Twitter/X" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>  
-  </a>  
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Anwaroxxx&theme=radical&hide_border=false&border_radius=12" 
+    width="600" 
+  />
 </p>
 
 ---
 
-> “What is dead may never die.” ⚔️
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anwaroxxx&theme=radical&no-frame=false&no-bg=true&row=1&column=6" />
+</p>
 
 ---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anwaroxxx&theme=redical&hide_border=true" />
+</p>
+
+---
+
+## ⚙️ My Favorite Tools 
+
+### 🎨 Frontend
+- Html , Css 
+- TailwindCSS / Sass / BootStrap
+- Framer Motion  
+
+### 🤖 Automation & AI
+- Python scripting    
+- Web scraping  
+- Bots & utils  
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <b>🔥 Thanks for visiting — star some repos if you like my work!</b>
+</p>
