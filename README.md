@@ -39,14 +39,14 @@ I'm passionate about web development and programming. Currently learning and bui
 ## GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=tokyonight&hide_border=true)
+[![Anwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Anwaroxxx&theme=tokyonight&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anwaroxxx&color=blueviolet&style=flat)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anwaroxxx&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Anwaroxxx&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
