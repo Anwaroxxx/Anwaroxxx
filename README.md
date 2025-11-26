@@ -1,68 +1,38 @@
-<!-- ================== BANNER ================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&lines=Hey+I'm+Anwaroxxx+🔥;Front-End+%26+Full-Stack+Dev+in+the+Making!" />
-</p>
+# Hey, I'm Anwar 👋
+
+Front-End & Full-Stack Developer in the making.
+
+## About Me
+
+I'm passionate about web development and programming. Currently learning and building projects to improve my skills every day.
+
+**What I'm focusing on:**
+- Web development (HTML, CSS, JavaScript)
+- Python scripting and automation
+- Backend basics with C
+- Git/GitHub workflow
+
+## Tech Stack
+
+**Languages**  
+`HTML` `CSS` `JavaScript` `Python` `C` `Makefile`
+
+**Frameworks & Tools**  
+`Bootstrap` `Sass` `TailwindCSS` `Git` `Linux` `VS Code`
+
+## Current Projects
+
+- Building responsive web applications
+- Creating automation scripts with Python
+- Learning system programming with C
+- Experimenting with modern CSS frameworks
+
+## Get in Touch
+
+📧 **Email:** anwar.azarzou.6969@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/anwaroxxx](https://www.linkedin.com/in/anwaroxxx/)  
+🐙 **GitHub:** You're already here!
 
 ---
 
-## 🚀 About Me
-
-- 💻 Passionate about web development and programming  
-- 🎯 Learning HTML, CSS, Bootstrap, Sass, JavaScript, Python, C, and Makefile  
-- ⚡ Love building projects, experimenting, and improving every day  
-- 🌱 Currently growing my skills in web apps, Git/GitHub, and basic backend  
-
----
-
-## 🛠️ Skills & Tools
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,makefile" /><br/>
-  <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=bootstrap,sass,tailwind" /><br/>
-  <!-- Dev Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" /><br/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-![GitHub followers](https://img.shields.io/github/followers/Anwaroxxx?style=for-the-badge)
-![GitHub repos](https://img.shields.io/github/repos/Anwaroxxx?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Anwaroxxx?style=for-the-badge)
-
----
-
-## ⚙️ Tools I Use
-
-### 🎨 Frontend
-- HTML, CSS  
-- TailwindCSS / Sass / Bootstrap  
-- Framer Motion  
-
-### 🤖 Automation & AI
-- Python scripting  
-- Web scraping  
-- Bots & utilities  
-
-### 🛠 Dev Tools
-- VS Code, Linux, Bash  
-- Git & GitHub  
-
----
-
-## 📬 Contact Me
-
-<p align="center">
-  <a href="mailto:anwar.azarzou.6969@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/Anwaroxxx"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/anwaroxxx/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
----
-
-<p align="center">
-  <b>🌟 Thanks for visiting my GitHub! Keep coding and building 🚀</b>
-</p>
+*Keep coding and building* 🚀
