@@ -38,17 +38,17 @@ I'm passionate about web development and programming. Currently learning and bui
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-</p>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anwaroxxx&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Anwaroxxx&theme=tokyonight&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Anwaroxxx&color=blueviolet&style=flat)
+
+</div>
 
 ## Current Projects
 
