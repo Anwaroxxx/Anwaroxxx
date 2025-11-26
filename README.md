@@ -44,8 +44,6 @@ I'm passionate about web development and programming. Currently learning and bui
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Anwaroxxx&theme=radical&hide_border=true)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anwaroxxx&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anwaroxxx&color=blueviolet&style=flat-square)
