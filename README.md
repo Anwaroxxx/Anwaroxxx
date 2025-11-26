@@ -40,13 +40,15 @@ I'm passionate about web development and programming. Currently learning and bui
 
 <div align="center">
 
-[![Anwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=radical&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=radical&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anwaroxxx&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Anwaroxxx&theme=radical&hide_border=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anwaroxxx&color=blueviolet&style=flat-square&label=Profile+Views)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anwaroxxx&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Anwaroxxx&color=blueviolet&style=flat-square)
 
 </div>
 
