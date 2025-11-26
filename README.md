@@ -14,11 +14,41 @@ I'm passionate about web development and programming. Currently learning and bui
 
 ## Tech Stack
 
-**Languages**  
-`HTML` `CSS` `JavaScript` `Python` `C` `Makefile`
+**Languages**
 
-**Frameworks & Tools**  
-`Bootstrap` `Sass` `TailwindCSS` `Git` `Linux` `VS Code`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anwaroxxx&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
 
 ## Current Projects
 
@@ -31,8 +61,10 @@ I'm passionate about web development and programming. Currently learning and bui
 
 📧 **Email:** anwar.azarzou.6969@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/anwaroxxx](https://www.linkedin.com/in/anwaroxxx/)  
-🐙 **GitHub:** You're already here!
+🐙 **GitHub:** [@Anwaroxxx](https://github.com/Anwaroxxx)
 
 ---
 
-*Keep coding and building* 🚀
+<p align="center">
+  <i>Keep coding and building</i> 🚀
+</p>
