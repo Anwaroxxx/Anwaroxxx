@@ -9,7 +9,6 @@ I'm passionate about web development and programming. Currently learning and bui
 **What I'm focusing on:**
 - Web development (HTML, CSS, JavaScript)
 - Python scripting and automation
-- Backend basics with C
 - Git/GitHub workflow
 
 ## Tech Stack
