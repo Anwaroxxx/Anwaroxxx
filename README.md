@@ -45,7 +45,6 @@ I'm passionate about web development and programming. Currently learning and bui
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anwaroxxx&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anwaroxxx&color=blueviolet&style=flat-square)
 
 </div>
 
