@@ -63,11 +63,14 @@ Currently learning and building projects to improve my skills every day.
 
 ---
 
+## Socials
+
 ## Get in Touch
 
-📧 **Email:** anwar.azarzou.6969@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/anwaroxxx](https://www.linkedin.com/in/anwaroxxx/)  
-🐙 **GitHub:** [@Anwaroxxx](https://github.com/Anwaroxxx)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anwar.azarzou.6969@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anwar-azarzou-20b923271/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Anwaroxxx)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1005448906089443328)
 
 ---
 
