@@ -50,7 +50,6 @@ Currently learning and building projects to improve my skills every day.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anwaroxxx&theme=radical" alt="Profile Summary" />
 </div>
 
-> **Note:** Stats may take time to update for new repos and languages.
 
 ---
 
