@@ -111,7 +111,7 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 
 <div align="center">
 
-[![Bank System](https://github-readme-stats.vercel.app/api/pin/?username=Anwaroxxx&repo=First_Project_JS_Anwar_Azarzou&theme=radical&hide_border=true)](https://github.com/Anwaroxxx/First_Project_JS_Anwar_Azarzou)
+[![Restaurant WebPage](https://github-readme-stats.vercel.app/api/pin/?username=Anwaroxxx&repo=First_Project_JS_Anwar_Azarzou&theme=radical&hide_border=true)](https://github.com/Anwaroxxx/Anwar_Azarzou_Final_Projeft_HTML_CSS)
 
 </div>
 
