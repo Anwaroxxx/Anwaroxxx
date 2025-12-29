@@ -64,20 +64,21 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anwaroxxx&theme=radical&hide_border=true" alt="GitHub Streak" />
+![Anwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+![GitHub Streak](https://streak-stats.demolab.com?user=Anwaroxxx&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Anwaroxxx&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=Anwaroxxx&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
@@ -107,11 +108,23 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Featured Projects
 
 <div align="center">
 
-[![Restaurant WebPage](https://github-readme-stats.vercel.app/api/pin/?username=Anwaroxxx&repo=First_Project_JS_Anwar_Azarzou&theme=radical&hide_border=true)](https://github.com/Anwaroxxx/Anwar_Azarzou_Final_Projeft_HTML_CSS)
+[![Restaurant WebPage](https://github-readme-stats.vercel.app/api/pin/?username=Anwaroxxx&repo=Anwar_Azarzou_Final_Projeft_HTML_CSS&theme=tokyonight&hide_border=true)](https://github.com/Anwaroxxx/Anwar_Azarzou_Final_Projeft_HTML_CSS)
+
+[![Bank System](https://github-readme-stats.vercel.app/api/pin/?username=Anwaroxxx&repo=First_Project_JS_Anwar_Azarzou&theme=tokyonight&hide_border=true)](https://github.com/Anwaroxxx/First_Project_JS_Anwar_Azarzou)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anwaroxxx&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -130,11 +143,11 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 
 ---
 
-## 💭 Random Dev Quote
+## 💭 Dev Wisdom
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -142,10 +155,10 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 
 <div align="center">
 
-### 📈 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### ⚡ "First, solve the problem. Then, write the code." – John Johnson
 
-### Show some ❤️ by starring some of my repositories!
+**Thanks for visiting! Feel free to explore my repositories and don't forget to ⭐ your favorites!**
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
-</div>
+</div
