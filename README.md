@@ -63,25 +63,12 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anwaroxxx&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-</div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anwaroxxx&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anwaroxxx&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 
-</div>
-
-<div align="center">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anwaroxxx&theme=radical" alt="Profile Summary" width="98%" />
-  
 </div>
 
 ---
@@ -89,9 +76,9 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Anwaroxxx&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-  
+
+![](https://github-profile-trophy.vercel.app/?username=Anwaroxxx&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+
 </div>
 
 ---
@@ -101,17 +88,17 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" alt="Coding"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" alt="JavaScript"/>
       <br><b>Building Projects</b>
-      <br>Creating responsive web apps
+      <br>Creating responsive web apps with JavaScript
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" alt="Learning"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="80" alt="C Programming"/>
       <br><b>Learning</b>
       <br>System programming in C
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="100" alt="Automation"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" alt="Python"/>
       <br><b>Automation</b>
       <br>Python scripts & tools
     </td>
@@ -147,7 +134,7 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -157,10 +144,8 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 
 ### 📈 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
 ### Show some ❤️ by starring some of my repositories!
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
