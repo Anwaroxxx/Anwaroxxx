@@ -64,13 +64,14 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 
 <div align="center">
 
-![Anwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Anwaroxxx&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Anwaroxxx&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
+
 
 ---
 
