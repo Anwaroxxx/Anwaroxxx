@@ -64,11 +64,18 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anwaroxxx&theme=tokyonight)
 
-<img src="https://streak-stats.demolab.com?user=Anwaroxxx&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anwaroxxx&theme=tokyonight)
+
+
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anwaroxxx&theme=tokyonight)
+
+
+![Streak](https://streak-stats.demolab.com?user=Anwaroxxx&theme=tokyonight&hide_border=true)
+
+
 
 </div>
 
