@@ -100,18 +100,6 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 
 ---
 
-## 📌 Featured Projects
-
-<div align="center">
-
-[![Restaurant WebPage](https://github-readme-stats.vercel.app/api/pin/?username=Anwaroxxx&repo=Anwar_Azarzou_Final_Projeft_HTML_CSS&theme=tokyonight&hide_border=true)](https://github.com/Anwaroxxx/Anwar_Azarzou_Final_Projeft_HTML_CSS)
-
-[![Bank System](https://github-readme-stats.vercel.app/api/pin/?username=Anwaroxxx&repo=First_Project_JS_Anwar_Azarzou&theme=tokyonight&hide_border=true)](https://github.com/Anwaroxxx/First_Project_JS_Anwar_Azarzou)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
