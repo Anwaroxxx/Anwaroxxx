@@ -70,23 +70,7 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anwaroxxx&theme=tokyonight)
 
 
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anwaroxxx&theme=tokyonight)
-
-
 ![Streak](https://streak-stats.demolab.com?user=Anwaroxxx&theme=tokyonight&hide_border=true)
-
-
-
-</div>
-
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Anwaroxxx&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
