@@ -1,28 +1,16 @@
 <div align="center">
-<br/>
 
-```
-  █████╗ ███╗   ██╗██╗    ██╗ █████╗ ██████╗
- ██╔══██╗████╗  ██║██║    ██║██╔══██╗██╔══██╗
- ███████║██╔██╗ ██║██║ █╗ ██║███████║██████╔╝
- ██╔══██║██║╚██╗██║██║███╗██║██╔══██║██╔══██╗
- ██║  ██║██║ ╚████║╚███╔███╔╝██║  ██║██║  ██║
- ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝
-```
-
-**`Full-Stack Developer`** &nbsp;·&nbsp; **`Morocco 🇲🇦`** &nbsp;·&nbsp; **`Open to Work`**
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:161b22&height=200&text=Anwar%20Azarzou&fontAlign=70&fontAlignY=55&fontSize=52&fontColor=ffffff&desc=Full-Stack%20Developer&descAlign=70.5&descAlignY=75&descSize=18&descColor=888888&animation=fadeIn" />
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:anwar.azarzou.6969@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anwar-azarzou-20b923271/)
-[![GitHub](https://img.shields.io/badge/@Anwaroxxx-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Anwaroxxx)
-[![Discord](https://img.shields.io/badge/Discord-000?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1005448906089443328)
-[![Views](https://komarev.com/ghpvc/?username=Anwaroxxx&color=ffffff&style=flat-square&label=views)](https://github.com/Anwaroxxx)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:anwar.azarzou.6969@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anwar-azarzou-20b923271/)
+[![GitHub](https://img.shields.io/badge/@Anwaroxxx-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Anwaroxxx)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.com/users/1005448906089443328)
+[![Views](https://komarev.com/ghpvc/?username=Anwaroxxx&color=888888&style=flat-square&label=views)](https://github.com/Anwaroxxx)
 
 </div>
-
-<br/>
 
 ---
 
