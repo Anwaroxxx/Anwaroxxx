@@ -2,20 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:161b22&height=120&section=header&animation=fadeIn" />
 
-</div>
+<h1>Anwar Azarzou</h1>
 
-<div align="center">
-
-```
- █████╗ ███╗   ██╗██╗    ██╗ █████╗ ██████╗
-██╔══██╗████╗  ██║██║    ██║██╔══██╗██╔══██╗
-███████║██╔██╗ ██║██║ █╗ ██║███████║██████╔╝
-██╔══██║██║╚██╗██║██║███╗██║██╔══██║██╔══██╗
-██║  ██║██║ ╚████║╚███╔███╔╝██║  ██║██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═══╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝
-```
-
-**`FULL-STACK DEVELOPER`** &nbsp;·&nbsp; **`MOROCCO`** &nbsp;·&nbsp; **`OPEN SOURCE`**
+**`FULL-STACK DEVELOPER`** &nbsp;·&nbsp; **`MOROCCO 🇲🇦`** &nbsp;·&nbsp; **`OPEN SOURCE`**
 
 <br/>
 
@@ -24,7 +13,7 @@
 [![GitHub](https://img.shields.io/badge/GITHUB-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/Anwaroxxx)
 [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/users/1005448906089443328)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anwaroxxx&color=ffffff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Anwaroxxx&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -34,12 +23,12 @@
 
 ```javascript
 const anwar = {
-  role      : "Full-Stack Developer",
-  location  : "Morocco 🇲🇦",
-  focus     : ["Laravel", "React", "C Programming"],
-  philosophy: "Good software is invisible — users shouldn't think about it.",
-  currentlyBuilding : "Clean interfaces. Solid architecture. Code that lasts.",
-  openTo    : ["Collaborations", "Open Source", "Freelance"]
+  role             : "Full-Stack Developer",
+  location         : "Morocco 🇲🇦",
+  focus            : ["Laravel", "React", "C Programming"],
+  philosophy       : "Good software is invisible — users shouldn't think about it.",
+  currentlyBuilding: "Clean interfaces. Solid architecture. Code that lasts.",
+  openTo           : ["Collaborations", "Open Source", "Freelance"]
 };
 ```
 
@@ -94,16 +83,16 @@ const anwar = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Anwaroxxx&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=8b949e&dates=555555&stroke=161b22" />
+<img width="65%" src="https://streak-stats.demolab.com?user=Anwaroxxx&theme=github-dark-blue&hide_border=true" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anwaroxxx&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=1c2433" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anwaroxxx&theme=react-dark&hide_border=true&area=true" />
 
 </div>
 
@@ -117,7 +106,7 @@ const anwar = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anwaroxxx&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Anwaroxxx&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 
 </div>
 
@@ -129,19 +118,16 @@ const anwar = {
 
 **`CURRENTLY LOCKED IN`**
 
-```
-░▒▓ Laravel · React · C · Open Source ▓▒░
-```
-
 <br/>
 
 > *"Any fool can write code that a computer can understand.*
 > *Good programmers write code that humans can understand."*
+>
 > — Martin Fowler
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+clean+interfaces+%26+solid+backends.;Morocco+%F0%9F%87%B2%F0%9F%87%A6+%7C+Open+to+collaborate.;Write+code+humans+can+read.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+clean+interfaces+%26+solid+backends.;Morocco+%F0%9F%87%B2%F0%9F%87%A6+%7C+Open+to+collaborate.;Write+code+humans+can+read.)
 
 </div>
 
