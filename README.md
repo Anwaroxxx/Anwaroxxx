@@ -27,7 +27,7 @@ $ whoami
   "role"     : "Full-Stack Developer",
   "location" : "Casablanca, Morocco 🇲🇦",
   "stack"    : ["Laravel", "React", "C", "MySQL", "Tailwind"],
-  "status"   : "locked in 🟢",
+  "status"   : "locked in ",
   "open_to"  : ["Freelance", "Collaborations", "Open Source"],
   "philosophy": "Good software is invisible — users shouldn't think about it."
 }
