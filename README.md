@@ -75,35 +75,6 @@ $ cat about.json
 
 ---
 
-## `// Projects`
-
-<br/>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>DevLearn</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      </p>
-      <p>Full-featured coding course platform. Premium membership system, role-based access control, middleware guards, and a complete fake payment flow — built in Laravel 11.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>TaskSync</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-      </p>
-      <p>Minimalist task management platform. Pure black UI, Organizer / Participant roles, and full task lifecycle tracking. <br/><br/><a href="https://github.com/Anwaroxxx/TaskSync"><code>View repo</code></a></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## `// Stats`
 
 <br/>
