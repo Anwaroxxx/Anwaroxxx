@@ -11,6 +11,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Create profile directory
+        run: mkdir -p profile
+
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -23,17 +26,13 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=Anwaroxxx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8
+          options: username=Anwaroxxx&theme=dark&hide_border=false&layout=compact&langs_count=8
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate streak card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: streak
-          options: user=Anwaroxxx&theme=dark&hide_border=false
-          path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Fetch streak card
+        run: |
+          curl -o profile/streak.svg "https://nirzak-streak-stats.vercel.app/?user=Anwaroxxx&theme=dark&hide_border=false"
 
       - name: Commit cards
         run: |
