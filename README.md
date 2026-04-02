@@ -77,34 +77,24 @@ $ cat about.json
 
 ## `// Stats`
 
-<br/>
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&icon_color=2f81f7&title_color=2f81f7&text_color=8b949e&bg_color=0d1117" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8&title_color=2f81f7&text_color=8b949e&bg_color=0d1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&icon_color=2f81f7&title_color=2f81f7&text_color=8b949e&bg_color=0d1117" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8&title_color=2f81f7&text_color=8b949e&bg_color=0d1117" alt="Top Languages" />
 
-<br/><br/>
+<img width="80%" src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DAnwaroxxx%26bg_color%3D0d1117%26color%3D2f81f7%26line%3D2f81f7%26point%3Dffffff%26area%3Dtrue%26hide_border%3Dtrue%26theme%3Dgithub" alt="Activity Graph" />
 
-<img width="60%" src="https://streak-stats.demolab.com?user=Anwaroxxx&theme=dark&hide_border=true&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7&sideLabels=8b949e&dates=8b949e&background=0d1117&stroke=161b22" />
+<img width="60%" src="https://streak-stats.demolab.com?user=Anwaroxxx&theme=dark&hide_border=true&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7&sideLabels=8b949e&dates=8b949e&background=0d1117&stroke=161b22" alt="GitHub Streak" />
 
 </div>
-
----
 
 ## `// Trophies`
 
-<br/>
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anwaroxxx&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Anwaroxxx&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies" />
 
 </div>
-
----
-
-<div align="center">
 
 ```
 [ STATUS: LOCKED IN ]
