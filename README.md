@@ -50,9 +50,9 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anwaroxxx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anwaroxxx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Stats](./profile/stats.svg)<br/>
+![Streak](./profile/streak.svg)<br/>
+![Top Languages](./profile/top-langs.svg)
 
 # 📈 Activity Graph:
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Anwaroxxx&bg_color=0d1117&color=2f81f7&line=2f81f7&point=ffffff&area=true&hide_border=true&theme=github)
