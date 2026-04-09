@@ -1,66 +1,90 @@
-#  About Me:
-```json
-{
-  "name"      : "Anwar Azarzou",
-  "role"      : "Full-Stack Developer",
-  "location"  : "Casablanca, Morocco",
-  "stack"     : ["Laravel", "React", "Tailwind CSS", "MySQL", "C", "Linux"],
-  "status"    : "Building in public. Locked in.",
-  "open_to"   : ["Freelance", "Collaborations", "Open Source"],
-  "philosophy": "Good software is invisible — users shouldn't think about it."
-}
-```
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Anwar%20Azarzou&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=60&descAlign=50" width="100%" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anwar-azarzou-20b923271)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anwar.azarzou@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://portfolio-lake-iota-gb36z8erxm.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Anwaroxxx)
+  <br/>
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+digital+experiences;Full-Stack+Developer;Laravel+%26+React+Specialist;Linux+Heart+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  </h3>
 
-# 📊 GitHub Stats:
-![Stats](./profile/stats.svg)<br/>
-![Streak](./profile/streak.svg)<br/>
-![Top Languages](./profile/top-langs.svg)
-
-# 📈 Activity Graph:
-![](https://github-readme-activity-graph.vercel.app/graph?username=Anwaroxxx&bg_color=0d1117&color=2f81f7&line=2f81f7&point=ffffff&area=true&hide_border=true&theme=github)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anwaroxxx&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZ3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  </p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anwaroxxx&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ![About](https://img.shields.io/badge/-About%20Me-38B2AC?style=flat-square&logo=about.me&logoColor=white)
+
+I am a **Full-Stack Developer** based in Casablanca, Morocco, who believes that good software is invisible — it just works. I bridge the gap between pixel-perfect frontends and robust backends, focusing on clean architecture and high-performance applications with Laravel and React.
+
+- ![Build](https://img.shields.io/badge/-Building%20in%20public-36BCF7?style=flat-square&logo=github&logoColor=white) Always "Locked in."
+- ![Linux](https://img.shields.io/badge/-Linux%20Enthusiast-36BCF7?style=flat-square&logo=linux&logoColor=white) Lover of the terminal and open systems.
+- ![Collaboration](https://img.shields.io/badge/-Open%20To%20Work-36BCF7?style=flat-square&logo=handshake&logoColor=white) Freelance, Collaborations, and Open Source.
+- ![Learning](https://img.shields.io/badge/-Always%20Learning-36BCF7?style=flat-square&logo=bookstack&logoColor=white) Deep diving into Next.js and System Architecture.
+
+---
+
+### ![Skills](https://img.shields.io/badge/-Tech%20Stack-38B2AC?style=flat-square&logo=codeforces&logoColor=white)
+
+<div align="center">
+
+| **Frontend** | **Backend** | **Languages** | **Databases & Tools** |
+| :--- | :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
+</div>
+
+---
+
+### ![Projects](https://img.shields.io/badge/-Featured%20Projects-38B2AC?style=flat-square&logo=github&logoColor=white)
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[DevRadar](https://devradar-main-so1vnx.free.laravel.cloud/)** | A developer discovery platform with real-time search & filters. | Laravel, React, MySQL |
+| **[Qrib-Lik](https://qrib-lik.vercel.app/)** | Location-based platform connecting users with nearby services. | React, Tailwind, API |
+| **[MoviesHub](https://movies-hub-rust.vercel.app/)** | Sleek movie discovery app powered by live APIs. | React, Tailwind, API |
+| **[Omni-Agent](https://omni-agent-umber.vercel.app/)** | Sophisticated AI chatbot interface with smooth UX. | React, API, Tailwind |
+
+---
+
+### ![Stats](https://img.shields.io/badge/-My%20Stats-38B2AC?style=flat-square&logo=chartdotjs&logoColor=white)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anwaroxxx&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anwaroxxx&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+### ![Contact](https://img.shields.io/badge/-Connect%20with%20Me-38B2AC?style=flat-square&logo=googlemail&logoColor=white)
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anwar-azarzou-20b923271)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anwar.azarzou@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-lake-iota-gb36z8erxm.vercel.app/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1005448906089443328)
+
+</div>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Anwaroxxx&icon=0&color=0" />
+</div>
+
+<p align="center">
+  <i>"Good software is invisible — users shouldn't think about it."</i>
+</p>
