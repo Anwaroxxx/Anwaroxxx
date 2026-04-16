@@ -6,10 +6,6 @@
   <h3>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+digital+experiences;Full-Stack+Developer;Laravel+%26+React+Specialist;Linux+Heart+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
   </h3>
-
-  <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZ3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-  </p>
 </div>
 
 ---
