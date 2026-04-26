@@ -12,7 +12,7 @@
 
 ### ![About](https://img.shields.io/badge/-About%20Me-38B2AC?style=flat-square&logo=about.me&logoColor=white)
 
-I am a **Full-Stack Developer** based in Casablanca, Morocco, who believes that good software is invisible — it just works. I bridge the gap between pixel-perfect frontends and robust backends, focusing on clean architecture and high-performance applications with Laravel and React.
+I am a **Full-Stack Developer** based in Casablanca, Morocco, who believes that good software is invisible — it just works. I bridge the gap between pixel-perfect frontends and robust backends, focusing on clean architecture and high-performance applications with Laravel and React. 
 
 - ![Build](https://img.shields.io/badge/-Building%20in%20public-36BCF7?style=flat-square&logo=github&logoColor=white) Always "Locked in."
 - ![Linux](https://img.shields.io/badge/-Linux%20Enthusiast-36BCF7?style=flat-square&logo=linux&logoColor=white) Lover of the terminal and open systems.
