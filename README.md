@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" />
+<img src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif" width="100%" />
+
+# Anwar Azarzou
+
+**Full-Stack Developer** · Casablanca, Morocco
+
+> Building clean interfaces and solid backends. Obsessed with performance, Linux, and things that just work.
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-lake-iota-gb36z8erxm.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anwar-azarzou-20b923271)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anwar.azarzou@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anwar.azarzou@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1005448906089443328)
 
 <br/>
@@ -34,5 +40,9 @@
 | **[Qrib-Lik](https://qrib-lik.vercel.app/)** | React · Tailwind · Groq |
 | **[MoviesHub](https://movies-hub-rust.vercel.app/)** | React · Tailwind |
 | **[Omni-Agent](https://omni-agent-umber.vercel.app/)** | React · API |
+
+<br/>
+
+<sub>Good software is invisible — it just works.</sub>
 
 </div>
