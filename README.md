@@ -14,19 +14,7 @@
 ---
 
 Self-taught. Terminal-first. I build real products — clean frontends, solid backends, things that don't fall apart.
-Currently sharpening low-level thinking through C at 1337 school while shipping production web apps on the side.
-
 ---
-
-```bash
-$ stack --list
-
-frontend   →  React · Next.js · Tailwind · JavaScript
-backend    →  Laravel · PHP · Node.js
-systems    →  C · Bash · Linux
-data       →  MySQL · SQLite
-tools      →  Git · Docker · GitHub
-```
 
 <div align="center">
 
