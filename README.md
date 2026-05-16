@@ -1,8 +1,8 @@
 <div align="center">
 
-# Anwar Azarzou
+# anwar azarzou
 
-Full-Stack Developer · Casablanca, Morocco
+`full-stack developer` · casablanca, morocco
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-lake-iota-gb36z8erxm.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anwar-azarzou-20b923271)
@@ -13,11 +13,20 @@ Full-Stack Developer · Casablanca, Morocco
 
 ---
 
-Self-taught full-stack developer focused on Laravel and React. I build real products — clean frontends, solid backends, things that actually ship. Most of my time is spent in the terminal chasing good architecture and readable code.
+Self-taught. Terminal-first. I build real products — clean frontends, solid backends, things that don't fall apart.
+Currently sharpening low-level thinking through C at 1337 school while shipping production web apps on the side.
 
 ---
 
-## Stack
+```bash
+$ stack --list
+
+frontend   →  React · Next.js · Tailwind · JavaScript
+backend    →  Laravel · PHP · Node.js
+systems    →  C · Bash · Linux
+data       →  MySQL · SQLite
+tools      →  Git · Docker · GitHub
+```
 
 <div align="center">
 
@@ -28,19 +37,6 @@ Self-taught full-stack developer focused on Laravel and React. I build real prod
 </div>
 
 ---
-
-## Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[DevRadar](https://devradar-main-so1vnx.free.laravel.cloud/)** | Developer community — real-time chat, job listings, AI integration, XP system | Laravel · React · MySQL |
-| **[Qrib-Lik](https://qrib-lik.vercel.app/)** | Location-based platform with AI post assistant and interactive map | React · Tailwind · Groq |
-| **[MoviesHub](https://movies-hub-rust.vercel.app/)** | Movie discovery app powered by live APIs | React · Tailwind |
-| **[Omni-Agent](https://omni-agent-umber.vercel.app/)** | AI chatbot interface built around smooth UX | React · API |
-
----
-
-## Stats
 
 <div align="center">
 
@@ -56,5 +52,5 @@ Self-taught full-stack developer focused on Laravel and React. I build real prod
 ---
 
 <div align="center">
-  <sub>Good software is invisible — it just works.</sub>
+  <sub>ship it.</sub>
 </div>
