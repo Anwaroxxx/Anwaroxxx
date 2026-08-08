@@ -1,76 +1,67 @@
 <div align="center">
 
-# `anwar@github:~$ whoami`
+# Anwar Azarzou
 
-## Anwar Azarzou
 **Full-Stack Developer · Casablanca, Morocco**
 
 I build reliable web applications with clean interfaces, structured backends, and maintainable code.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-lake-iota-gb36z8erxm.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anwar-azarzou-20b923271)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anwar.azarzou@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-Message-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1005448906089443328)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-lake-iota-gb36z8erxm.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anwar-azarzou-20b923271)
+[![Gmail](https://img.shields.io/badge/Gmail-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:anwar.azarzou@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-111111?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1005448906089443328)
 
 </div>
 
----
+<br>
 
-## `$ cat about-me.txt`
+## About
 
-```txt
-Full-stack developer focused on building complete products,
-from responsive interfaces to reliable backend systems.
+Full-stack developer focused on building complete products — from responsive interfaces to reliable backend systems. I care about clean, accessible interfaces, structured and secure backend systems, reusable components and readable code, and understanding how things work beneath their abstractions.
 
-I care about:
-  - Clean and accessible user interfaces
-  - Structured and secure backend systems
-  - Reusable components and readable code
-  - Understanding how systems work beneath abstractions
-```
+Currently deepening my knowledge of software engineering, system design, C, Linux, and backend architecture.
 
-Currently strengthening my knowledge of **software engineering, system design, C, Linux, and backend architecture**.
-
----
-
-## `$ ls ./toolbox`
+## Stack
 
 **Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css&theme=dark" alt="Frontend technologies" /></p>
+<br>
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=white)
 
-**Backend**
-<p><img src="https://skillicons.dev/icons?i=laravel,php,nodejs,c&theme=dark" alt="Backend technologies" /></p>
+**Backend & Data**
+<br>
+![Laravel](https://img.shields.io/badge/Laravel-111111?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white)
+![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqlite&logoColor=white)
 
-**Databases & Infrastructure**
-<p><img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,linux,bash&theme=dark" alt="Databases and infrastructure" /></p>
+**Tools & Environment**
+<br>
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-111111?style=flat-square&logo=vim&logoColor=white)
 
-**Tools**
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,vim&theme=dark" alt="Development tools" /></p>
+## Currently
 
----
+- Building full-stack applications and REST APIs
+- Strengthening data structures and algorithms
+- Studying software architecture and system design
+- Practicing problem-solving in C
+- Learning Docker and deployment workflows
+- Improving testing and code quality
 
-## `$ cat current-focus.yml`
-
-```yaml
-building:
-  - Full-stack web applications
-  - REST APIs
-  - Responsive user interfaces
-
-improving:
-  - Data structures and algorithms
-  - Software architecture
-  - Problem-solving with C
-  - Docker and deployment
-  - Testing and code quality
-
-environment:
-  os: Arch Linux
-  shell: Zsh
-  workflow: Terminal-first
-```
-
----
+Environment: Arch Linux · Zsh · terminal-first workflow
 
 <div align="center">
 
@@ -80,7 +71,7 @@ environment:
 
 ---
 
-## `$ github-stats --user Anwaroxxx`
+## GitHub Overview
 
 <div align="center">
 
@@ -99,7 +90,7 @@ environment:
 
 ---
 
-## `$ grademe --user anwaroxxx`
+## Grademe
 
 <div align="center">
 
@@ -110,8 +101,5 @@ environment:
 ---
 
 <div align="center">
-
-### `$ ./build.sh --learn --improve --ship`
-<sub>Build carefully. Learn continuously. Ship working software.</sub>
-
+<sub>Build carefully · Learn continuously · Ship working software</sub>
 </div>
