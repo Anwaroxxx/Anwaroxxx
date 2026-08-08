@@ -21,36 +21,28 @@ Full-stack developer focused on building complete products — from responsive i
 
 Currently deepening my knowledge of software engineering, system design, C, Linux, and backend architecture.
 
-## Stack
+## Tech Stack
 
-**Frontend**
-<br>
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=white)
-
-**Backend & Data**
-<br>
-![Laravel](https://img.shields.io/badge/Laravel-111111?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white)
-![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqlite&logoColor=white)
-
-**Tools & Environment**
-<br>
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-111111?style=flat-square&logo=vim&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
 ## Currently
 
@@ -75,8 +67,7 @@ Environment: Arch Linux · Zsh · terminal-first workflow
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anwaroxxx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="Anwar's GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Anwar's most used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Anwar's most used languages" />
 
 <br />
 
