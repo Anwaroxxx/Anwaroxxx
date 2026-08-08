@@ -44,23 +44,6 @@ Currently deepening my knowledge of software engineering, system design, C, Linu
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
-## Currently
-
-- Building full-stack applications and REST APIs
-- Strengthening data structures and algorithms
-- Studying software architecture and system design
-- Practicing problem-solving in C
-- Learning Docker and deployment workflows
-- Improving testing and code quality
-
-Environment: Arch Linux · Zsh · terminal-first workflow
-
-<div align="center">
-
-[View all projects on my portfolio →](https://portfolio-lake-iota-gb36z8erxm.vercel.app/)
-
-</div>
-
 ---
 
 ## GitHub Overview
