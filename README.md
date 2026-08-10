@@ -53,7 +53,7 @@ Currently deepening my knowledge of software engineering, system design, C, Linu
     <td width="50%" align="center">
       <img
         src="https://github-readme-stats.shion.dev/api?username=Anwaroxxx&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
-        height="180"
+        height="300"
       />
     </td>
     <td width="50%" align="center">
