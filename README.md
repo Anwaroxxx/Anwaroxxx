@@ -48,7 +48,6 @@ Currently deepening my knowledge of software engineering, system design, C, Linu
 
 ## GitHub Overview
 
-## GitHub Overview
 
 <table>
   <tr>
