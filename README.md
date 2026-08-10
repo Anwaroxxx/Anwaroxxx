@@ -6,7 +6,10 @@
 
 I build reliable web applications with clean interfaces, structured backends, and maintainable code.
 
-<sub>[Portfolio](https://portfolio-lake-iota-gb36z8erxm.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/anwar-azarzou-20b923271) · [Email](mailto:anwar.azarzou@gmail.com) · [Discord](https://discord.com/users/1005448906089443328)</sub>
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-lake-iota-gb36z8erxm.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anwar-azarzou-20b923271)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anwar.azarzou@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1005448906089443328)
 
 </div>
 
@@ -48,10 +51,6 @@ Currently deepening my knowledge of software engineering, system design, C, Linu
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Anwar's most used languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Anwaroxxx&theme=tokyonight&hide_border=true" width="70%" alt="Anwar's GitHub streak" />
 
 <br />
 
