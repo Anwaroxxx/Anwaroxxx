@@ -48,15 +48,11 @@ Currently deepening my knowledge of software engineering, system design, C, Linu
 
 ## GitHub Overview
 
-<div align="center">
+![](https://github-readme-stats.shion.dev/api?username=Anwaroxxx&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaroxxx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Anwar's most used languages" />
+![](https://streak-stats.demolab.com/?user=Anwaroxxx&theme=dark&hide_border=true)<br/>
 
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anwaroxxx&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c3e3ff&area=true&area_color=7aa2f720&hide_border=true&radius=6" width="98%" alt="Anwar's contribution graph" />
-
-</div>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anwaroxxx&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
