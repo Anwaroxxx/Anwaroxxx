@@ -6,10 +6,7 @@
 
 I build reliable web applications with clean interfaces, structured backends, and maintainable code.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-lake-iota-gb36z8erxm.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anwar-azarzou-20b923271)
-[![Gmail](https://img.shields.io/badge/Gmail-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:anwar.azarzou@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-111111?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1005448906089443328)
+<sub>[Portfolio](https://portfolio-lake-iota-gb36z8erxm.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/anwar-azarzou-20b923271) · [Email](mailto:anwar.azarzou@gmail.com) · [Discord](https://discord.com/users/1005448906089443328)</sub>
 
 </div>
 
