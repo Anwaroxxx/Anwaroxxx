@@ -60,10 +60,13 @@ Currently deepening my knowledge of software engineering, system design, C, Linu
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anwaroxxx&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=6" width="100%" />
-    </td>
-  </tr>
+  <td colspan="2" align="center">
+    <img
+      src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anwaroxxx&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+      width="70%"
+    />
+  </td>
+</tr>
 </table>
 
 ---
