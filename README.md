@@ -56,17 +56,10 @@ Currently deepening my knowledge of software engineering, system design, C, Linu
       <img src="https://github-readme-stats.shion.dev/api?username=Anwaroxxx&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://streak-stats.demolab.com/?user=Anwaroxxx&theme=dark&hide_border=true" width="100%" />
-    </td>
-  </tr>
-  <tr>
-  <td colspan="2" align="center">
-    <img
+      <img
       src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anwaroxxx&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
-      width="70%"
-    />
-  </td>
-</tr>
+      width="70%">
+  </tr>
 </table>
 
 ---
