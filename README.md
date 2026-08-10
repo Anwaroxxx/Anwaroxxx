@@ -53,12 +53,17 @@ Currently deepening my knowledge of software engineering, system design, C, Linu
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.shion.dev/api?username=Anwaroxxx&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="100%" />
+      <img
+        src="https://github-readme-stats.shion.dev/api?username=Anwaroxxx&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
+        width="100%"
+      />
     </td>
     <td width="50%">
       <img
-      src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anwaroxxx&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
-      width="70%">
+        src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anwaroxxx&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+        width="100%"
+      />
+    </td>
   </tr>
 </table>
 
