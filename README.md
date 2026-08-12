@@ -71,7 +71,7 @@ Currently deepening my knowledge of software engineering, system design, C, Linu
 
 <div align="center">
 
-[![Grademe profile card for @anwaroxxx](https://grademe.fr/api/cards/edc23c30-ba99-419e-ad12-16659aa4a7ba.svg)](https://grademe.fr/app/user/d9ac0b47-0ffe-47a9-a586-29873b67b4c3)
+[![Grademe profile card for @aazarzou](https://grademe.fr/api/cards/edc23c30-ba99-419e-ad12-16659aa4a7ba.svg)](https://grademe.fr/app/user/d9ac0b47-0ffe-47a9-a586-29873b67b4c3)
 
 </div>
 
